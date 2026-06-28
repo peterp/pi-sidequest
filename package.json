@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "type": "module",
   "description": "A Quake-style side question overlay for Pi.",
+  "license": "MIT",
   "keywords": ["pi-package", "pi-extension", "sidequest", "terminal", "ai"],
   "repository": {
     "type": "git",
@@ -12,7 +13,7 @@
     "url": "https://github.com/peterp/pi-sidequest/issues"
   },
   "homepage": "https://github.com/peterp/pi-sidequest#readme",
-  "files": ["sidequest/**/*.ts", "README.md"],
+  "files": ["sidequest/**/*.ts", "README.md", "LICENSE"],
   "pi": {
     "extensions": ["./sidequest/index.ts"]
   },
