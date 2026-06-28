@@ -1,8 +1,8 @@
 # Sidequest
 
-Sidequest is a Quake-style side question overlay for [Pi](https://pi.dev).
+Sidequest gives [Pi](https://pi.dev) a side channel: ask context-aware questions without pulling the main conversation off track.
 
-It lets you ask quick side questions without adding noise to the main conversation. Think of it as a better `/btw`: grounded in the active Pi session, threaded, persistent, and tool-capable.
+Think of it as a better `/btw`: grounded in the active Pi session, threaded, persistent, and tool-capable.
 
 ## Install
 
