@@ -5,7 +5,7 @@
   "engines": {
     "node": ">=22.19.0"
   },
-  "description": "A Quake-style side question overlay for Pi.",
+  "description": "A side channel for context-aware questions in Pi.",
   "license": "MIT",
   "keywords": ["pi-package", "pi-extension", "sidequest", "terminal", "ai"],
   "repository": {
