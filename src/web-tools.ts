@@ -2,7 +2,7 @@ import type { ExtensionAPI } from "@earendil-works/pi-coding-agent";
 import { Type } from "typebox";
 
 const DEFAULT_USER_AGENT =
-  "Mozilla/5.0 (compatible; pi-sidequest/0.1; +https://pi.dev) AppleWebKit/537.36 Chrome/120 Safari/537.36";
+  "Mozilla/5.0 (compatible; pi-sidequest/1.0; +https://pi.dev) AppleWebKit/537.36 Chrome/120 Safari/537.36";
 
 function clamp(value: number | undefined, min: number, max: number, fallback: number): number {
   if (value === undefined || !Number.isFinite(value)) return fallback;
