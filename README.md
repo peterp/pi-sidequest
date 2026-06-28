@@ -24,10 +24,10 @@ For local development:
 pi -e /absolute/path/to/pi-sidequest
 ```
 
-Or link `sidequest/` as an auto-discovered extension directory:
+Or link `src/` as an auto-discovered extension directory:
 
 ```bash
-ln -s /absolute/path/to/pi-sidequest/sidequest ~/.pi/agent/extensions/sidequest
+ln -s /absolute/path/to/pi-sidequest/src ~/.pi/agent/extensions/sidequest
 ```
 
 ## Use

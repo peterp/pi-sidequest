@@ -16,9 +16,9 @@
     "url": "https://github.com/peterp/pi-sidequest/issues"
   },
   "homepage": "https://github.com/peterp/pi-sidequest#readme",
-  "files": ["sidequest/**/*.ts", "README.md", "LICENSE"],
+  "files": ["src/**/*.ts", "README.md", "LICENSE"],
   "pi": {
-    "extensions": ["./sidequest/index.ts"]
+    "extensions": ["./src/index.ts"]
   },
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*",
