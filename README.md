@@ -4,6 +4,10 @@ Sidequest gives [Pi](https://pi.dev) a side channel: ask context-aware questions
 
 Think of it as a better `/btw`: grounded in the active Pi session, threaded, persistent, and tool-capable.
 
+## Demo
+
+<video src="./media/sidequest-demo.mp4" controls></video>
+
 ## Install
 
 From GitHub:
