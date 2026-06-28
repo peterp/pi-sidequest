@@ -38,7 +38,7 @@ Open Sidequest inside Pi:
 /sidequest
 ```
 
-Default Quake keys:
+Default quake console keys:
 
 ```text
 §
