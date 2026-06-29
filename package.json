@@ -19,8 +19,8 @@
   "files": ["src/**/*.ts", "README.md", "LICENSE"],
   "pi": {
     "extensions": ["./src/index.ts"],
-    "video": "https://raw.githubusercontent.com/peterp/pi-sidequest/main/media/sidequest-demo.mp4",
-    "image": "https://raw.githubusercontent.com/peterp/pi-sidequest/main/media/sidequest-demo.webp"
+    "video": "https://cdn.jsdelivr.net/gh/peterp/pi-sidequest@main/media/sidequest-demo.mp4",
+    "image": "https://cdn.jsdelivr.net/gh/peterp/pi-sidequest@main/media/sidequest-demo.webp"
   },
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*",
