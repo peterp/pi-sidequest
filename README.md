@@ -6,7 +6,9 @@ Think of it as a better `/btw`: grounded in the active Pi session, threaded, per
 
 ## Demo
 
-<video src="./media/sidequest-demo.mp4" controls></video>
+![Sidequest demo](https://raw.githubusercontent.com/peterp/pi-sidequest/main/media/sidequest-demo.webp)
+
+[Download the MP4 demo](https://github.com/peterp/pi-sidequest/raw/main/media/sidequest-demo.mp4)
 
 ## Install
 
