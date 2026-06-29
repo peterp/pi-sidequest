@@ -1,6 +1,6 @@
 {
   "name": "pi-sidequest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "engines": {
     "node": ">=22.19.0"
@@ -18,7 +18,9 @@
   "homepage": "https://github.com/peterp/pi-sidequest#readme",
   "files": ["src/**/*.ts", "README.md", "LICENSE"],
   "pi": {
-    "extensions": ["./src/index.ts"]
+    "extensions": ["./src/index.ts"],
+    "video": "https://raw.githubusercontent.com/peterp/pi-sidequest/main/media/sidequest-demo.mp4",
+    "image": "https://raw.githubusercontent.com/peterp/pi-sidequest/main/media/sidequest-demo.webp"
   },
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*",

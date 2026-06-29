@@ -12,16 +12,16 @@ Think of it as a better `/btw`: grounded in the active Pi session, threaded, per
 
 ## Install
 
+From npm:
+
+```bash
+pi install npm:pi-sidequest
+```
+
 From GitHub:
 
 ```bash
 pi install git:github.com/peterp/pi-sidequest
-```
-
-After this package is published to npm:
-
-```bash
-pi install npm:pi-sidequest
 ```
 
 For local development:
